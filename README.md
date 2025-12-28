@@ -1,6 +1,13 @@
 # UE-Audio
 This Project Automates Audio Extraction From  (Unreal Engine) UE Wwise # .wem and .bnk Files Using Existing Open-Source Tools
 
+# Requirements 
+
+Termux 
+python 
+pkg FFmpeg , vgmstream
+pip colorama
+
 ## Credits & Open-Source Tools
 
 This project is a helper/automation script and does **not** reimplement
