@@ -16,6 +16,11 @@ It relies on the following open-source tools:
 - **FFmpeg**  
   https://ffmpeg.org  
   Used for audio decoding and format conversion.
-
+- **vgmstream**  
+  Website: https://vgmstream.org  
+  GitHub: https://github.com/vgmstream/vgmstream  
+  Used for decoding and converting streamed audio formats from video games,
+  including Wwise and other game audio formats.
+  
 All credit for the core extraction functionality goes to the original
 tool authors. This project only automates and simplifies their usage.
